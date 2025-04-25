@@ -1,10 +1,15 @@
 [
   {
-    "type": "IMAGE",
+    "type": "IMAGE_WITH_TEXT",
     "image": {
       "url": "./MOD01.png",
-      "size": "L",
-      "alt": ""
+      "size": "M",
+      "alt": "Butelka termiczna do gazowania wody"
+    },
+    "text": {
+      "order": "FIRST",
+      "align": "TOP",
+      "content": "<h3><strong>Butelka</strong></h3><p>termiczna do gazowania wody Miętowa 0,9 l</p>"
     }
   },
   {
@@ -32,15 +37,16 @@
     }
   },
   {
-    "type": "TEXT",
-    "content": "<h3><strong>Wypróbuj SodaStream Fizz&amp;Go</strong></h3>"
-  },
-  {
-    "type": "IMAGE",
+    "type": "IMAGE_WITH_TEXT",
     "image": {
       "url": "./MOD04.png",
-      "size": "L",
-      "alt": ""
+      "size": "M",
+      "alt": "Butelka do gazowania wody SodaStream Fizz&Go"
+    },
+    "text": {
+      "order": "LAST",
+      "align": "TOP",
+      "content": "<h3><strong>Wypróbuj SodaStream Fizz&amp;Go </strong></h3><ul><li>szczelna konstrukcja</li><li>Wykonana z materiałów wolnych od BPA</li><li>Odpowiednia do mycia w zmywarce</li><li>Wykonana ze stali nierdzewnej 18/8</li></ul>"
     }
   },
   {
@@ -52,7 +58,7 @@
     },
     "text": {
       "content": "<h3><strong>Butelka termiczna do gazowania wody, pastelowa mięta</strong></h3>\n<p>Masz ochotę na przyjemne orzeźwienie i idealnie schłodzony napój? A może nie wyobrażasz sobie życia bez ciepłej kawy czy herbaty*? Metalowa butelka SodaStream Fizz&amp;Go podtrzyma optymalną temperaturę Twojego ulubionego napoju, towarzysząc Ci przez cały dzień, od rana do wieczora.</p>",
-      "order": "LAST"
+      "order": "FIRST"
     }
   },
   {
@@ -64,16 +70,24 @@
     },
     "text": {
       "content": "<p>Podwójne ścianki i nowoczesna technologia izolacji próżniowej umożliwiają zachowanie temperatury napoju.</p>\n<p>Hermetyczna konstrukcja utrzymuje chłód napoju aż do 12 godzin.</p>\n<p>Wysokiej jakości odporne materiały, które umożliwiają korzystanie z butelki przez lata, nawet przy intensywnym użytkowaniu.</p>\n<p><strong>*UWAGA!</strong> Nie nasycaj gazem wody o temperaturze powyżej 45°C. Zachowaj szczególną ostrożność podczas przechowywania gorących płynów w butelce i otwierania butelki zawierającej gorące płyny.</p>",
-      "order": "FIRST"
+      "order": "LAST"
     }
+  },
+  {
+    "type": "TEXT",
+    "content": "<h3><strong>Gazuj, miksuj i w drogę</strong></h3>"
   },
   {
     "type": "IMAGE",
     "image": {
       "url": "./MOD07.png",
       "size": "L",
-      "alt": ""
+      "alt": "Gazuj, miksuj i w drogę"
     }
+  },
+  {
+    "type": "TEXT",
+    "content": "<h3><strong>Twój ulubiony napój w trzech prostych krokach</strong></h3>"
   },
   {
     "type": "IMAGE",
