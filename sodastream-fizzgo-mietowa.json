@@ -40,7 +40,7 @@
     "image": {
       "url": "./MOD04.png",
       "size": "M",
-      "alt": "Butelka do gazowania wody SodaStream Fizz&Go"
+      "alt": "Butelka do gazowania wody SodaStream Fizz&amp;Go"
     },
     "text": {
       "content": "<h3><strong>Wypróbuj SodaStream Fizz&amp;Go </strong></h3><ul><li>szczelna konstrukcja</li><li>Wykonana z materiałów wolnych od BPA</li><li>Odpowiednia do mycia w zmywarce</li><li>Wykonana ze stali nierdzewnej 18/8</li></ul>",
