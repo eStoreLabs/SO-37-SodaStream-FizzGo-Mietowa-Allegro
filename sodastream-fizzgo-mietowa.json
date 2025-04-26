@@ -7,9 +7,8 @@
       "alt": "Butelka termiczna do gazowania wody"
     },
     "text": {
-      "order": "FIRST",
-      "align": "TOP",
-      "content": "<h3><strong>Butelka</strong></h3><p>termiczna do gazowania wody Miętowa 0,9 l</p>"
+      "content": "<h3><strong>Butelka</strong></h3><p>termiczna do gazowania wody Miętowa 0,9 l</p>",
+      "order": "FIRST"
     }
   },
   {
@@ -44,9 +43,8 @@
       "alt": "Butelka do gazowania wody SodaStream Fizz&Go"
     },
     "text": {
-      "order": "LAST",
-      "align": "TOP",
-      "content": "<h3><strong>Wypróbuj SodaStream Fizz&amp;Go </strong></h3><ul><li>szczelna konstrukcja</li><li>Wykonana z materiałów wolnych od BPA</li><li>Odpowiednia do mycia w zmywarce</li><li>Wykonana ze stali nierdzewnej 18/8</li></ul>"
+      "content": "<h3><strong>Wypróbuj SodaStream Fizz&amp;Go </strong></h3><ul><li>szczelna konstrukcja</li><li>Wykonana z materiałów wolnych od BPA</li><li>Odpowiednia do mycia w zmywarce</li><li>Wykonana ze stali nierdzewnej 18/8</li></ul>",
+      "order": "LAST"
     }
   },
   {
