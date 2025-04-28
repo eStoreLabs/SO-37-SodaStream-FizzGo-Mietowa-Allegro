@@ -8,7 +8,8 @@
     },
     "text": {
       "content": "<h3><strong>Butelka</strong></h3><p>termiczna do gazowania wody Miętowa 0,9 l</p>",
-      "order": "FIRST"
+      "order": "FIRST",
+      "align": "MID"
     }
   },
   {
@@ -20,7 +21,8 @@
     },
     "text": {
       "content": "<p>A gdyby tak... połączyć właściwości butelki do saturatora, kubka termicznego i bidonu na wodę? Wtedy powstanie SodaStream Fizz&amp;Go! To metalowa butelka termiczna, w której nagazujesz wodę.</p>\n<p>Możesz do niej wlać swój ulubiony ciepły lub zimny napój i zabrać ze sobą na wynos. Zakochaj się w wielofunkcyjnym rozwiązaniu, które posłuży Ci przez lata!</p>\n<p><strong>Pastelowa mięta:</strong> Radosny odcień, który spodoba się fanom energetycznych i oryginalnych kolorów.</p>\n<p><strong>Nawodnienie, orzeźwienie i eko nawyki w dobrym stylu!</strong></p>",
-      "order": "LAST"
+      "order": "LAST",
+      "align": "MID"
     }
   },
   {
@@ -32,7 +34,8 @@
     },
     "text": {
       "content": "<h3>SodaStream Fizz&amp;Go:</h3>\n<p>W torbie lub plecaku, na biurku, w samochodze... Twoja nowa, ulubiona butelka termiczna jest smukła, odporna na uszkodzenia i superszczelna, więc bez obaw zabierzesz ją wszędzie. To doskonała alternatywa dla jednorazowych puszek, butelek i kubków. Buduj z nią swoje małe eko nawyki.</p>",
-      "order": "FIRST"
+      "order": "FIRST",
+      "align": "MID"
     }
   },
   {
@@ -44,7 +47,8 @@
     },
     "text": {
       "content": "<h3><strong>Wypróbuj SodaStream Fizz&amp;Go </strong></h3><ul><li>szczelna konstrukcja</li><li>Wykonana z materiałów wolnych od BPA</li><li>Odpowiednia do mycia w zmywarce</li><li>Wykonana ze stali nierdzewnej 18/8</li></ul>",
-      "order": "LAST"
+      "order": "LAST",
+      "align": "MID"
     }
   },
   {
@@ -56,7 +60,8 @@
     },
     "text": {
       "content": "<h3><strong>Butelka termiczna do gazowania wody, pastelowa mięta</strong></h3>\n<p>Masz ochotę na przyjemne orzeźwienie i idealnie schłodzony napój? A może nie wyobrażasz sobie życia bez ciepłej kawy czy herbaty*? Metalowa butelka SodaStream Fizz&amp;Go podtrzyma optymalną temperaturę Twojego ulubionego napoju, towarzysząc Ci przez cały dzień, od rana do wieczora.</p>",
-      "order": "FIRST"
+      "order": "FIRST",
+      "align": "MID"
     }
   },
   {
@@ -68,7 +73,8 @@
     },
     "text": {
       "content": "<p>Podwójne ścianki i nowoczesna technologia izolacji próżniowej umożliwiają zachowanie temperatury napoju.</p>\n<p>Hermetyczna konstrukcja utrzymuje chłód napoju aż do 12 godzin.</p>\n<p>Wysokiej jakości odporne materiały, które umożliwiają korzystanie z butelki przez lata, nawet przy intensywnym użytkowaniu.</p>\n<p><strong>*UWAGA!</strong> Nie nasycaj gazem wody o temperaturze powyżej 45°C. Zachowaj szczególną ostrożność podczas przechowywania gorących płynów w butelce i otwierania butelki zawierającej gorące płyny.</p>",
-      "order": "LAST"
+      "order": "LAST",
+      "align": "MID"
     }
   },
   {
@@ -120,7 +126,8 @@
     },
     "text": {
       "content": "<h3><strong>Stylowa butelka, z którą możesz wszystko</strong></h3>\n<p><strong>Żyjesz aktywnie?</strong> SodaStream Fizz&amp;Go to wygodna butelka termiczna, która będzie Twoim codziennym towarzyszem: w pracy, na uczelni czy podczas zakupów.</p>\n<p><strong>Uprawiasz sport?</strong> SodaStream Fizz&amp;Go to wielorazowy bidon, który zachowuje niską temperaturę napoju aż do 12 godzin, więc zapewni Ci nawodnienie i orzeźwienie podczas zajęć sportowych.</p>",
-      "order": "LAST"
+      "order": "LAST",
+      "align": "MID"
     }
   },
   {
@@ -132,7 +139,8 @@
     },
     "text": {
       "content": "<p><strong>Lubisz wycieczki?</strong> SodaStream Fizz&amp;Go to superszczelna butelka metalowa, którą możesz wrzucić do plecaka lub torby oraz umieścić w samochodowym uchwycie na kubek – bez obaw o przeciekanie i wylewanie.</p>\n<p><strong>Cenisz modny design?</strong> SodaStream Fizz&amp;Go to designerski gadżet w modnym, miętowym odcieniu, który pomoże Ci wyrazić indywidualny styl i jednocześnie ograniczy zużycie plastikowych butelek.</p>\n<p><strong>Szukasz pomysłu na prezent?</strong> SodaStream Fizz&amp;Go to stylowy dodatek, który stanie się świetnym upominkiem dla osób ceniących praktyczne rozwiązania i eko nawyki.</p>",
-      "order": "FIRST"
+      "order": "FIRST",
+      "align": "MID"
     }
   },
   {
